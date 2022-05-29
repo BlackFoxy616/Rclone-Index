@@ -15,4 +15,4 @@ jobs:
            chmod 777 rcloneindex.sh
       - name: Running the Script
         run: |
-           ./rcloneindexsh
+           ./rcloneindex.sh

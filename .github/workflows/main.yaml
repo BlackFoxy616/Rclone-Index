@@ -1,5 +1,4 @@
-
-name: Mirleechx Mirror Bot
+name: Rcloneindex
 on:
   workflow_dispatch:
   schedule:
